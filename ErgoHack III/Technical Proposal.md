@@ -24,6 +24,21 @@ Oracle Pools (OP) have sparked a lot of interest and excitement, rightly so. How
 
 `todo`
 
+### Challenges
+
+`todo`	
+
+## Team
+
+The team gathered around a post in the `#i-need-a-team` channel on the Ergo Discord and includes the following members, in alphabetical order:
+
+- abchris: `todo - A brief explanation of the skillsets of each team member and why they are important to the proposal.`
+- Balb: `todo - A brief explanation of the skillsets of each team member and why they are important to the proposal.`
+- curbsideprophet: `todo - A brief explanation of the skillsets of each team member and why they are important to the proposal.`
+- error: `todo - A brief explanation of the skillsets of each team member and why they are important to the proposal.`
+
+Community developer Luivatra, busy as he is, expressed interest and offered support.
+
 ## ErgoHack Theme
 
 The theme of ErgoHack III is privacy and security. The latter is often associated with protocol improvements or infrastructure hardening. The Oracle Pool Hub will contribute to security, at a somewhat higher level, by:
