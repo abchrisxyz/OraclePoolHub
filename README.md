@@ -1,5 +1,12 @@
 # Oracle Pool Hub*
-*or wathever we end up naming this...
+*or whatever we end up naming this...
+
+### Suggestions
+- Bazaar
+- Pythia/Delphi/Pytho (https://en.wikipedia.org/wiki/Pythia)
+- Kuten Pools/Hub (https://en.wikipedia.org/wiki/Oracle#Tibet)
+- Oracle Exchange
+- Project Switchboard
 
 ## TL;DR
 Oracle Pool launching platform for Ergo, to match oracle operators with pool creators whilst enhancing security through transparency and documentation.
@@ -43,5 +50,3 @@ Looking for hands with skills in any of these:
 - Graphic design (logos, infographics)
 
 Anyone is welcome to join the effort. If you feel like you can contribute in some way or the other, or want to share ideas, get in touch!
-
-
