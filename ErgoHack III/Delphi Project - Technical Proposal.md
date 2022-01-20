@@ -26,7 +26,7 @@ In the future, with more pools running, oracle users will first look for existin
 
 ### Missing features
 
-It is our understanding that some features are worked out at the protocol level but remain to be implemented. Stake slashing is a good example.
+It is our understanding that some features are worked out at the protocol level but remain to be implemented. Stake slashing is a good example. Also, support for additional data types would open the doors to a wider range of applications.
 
 ## Approach
 
@@ -82,13 +82,13 @@ Any public facing system open for data input is eventually subject to spamming. 
 
 #### Re-centralisation
 
-For lack of a better word. The issue here is that the platform described in this document would be introducing a centralised component in an otherwise fully distributed system. Our platform shouldn't be the only way to achieve some the benefits it will provide. This is particularly true for transparency around pool creation and oracle selection. The project will strive to come up with and promote guidelines regarding oracle pool creation. Such best practices could then be applied by pool creators not relying on the platform.
+For lack of a better word. The issue here is that the platform described in this document would be introducing a centralised component in an otherwise fully distributed system. The platform shouldn't be the only way to achieve some the benefits it will provide. This is particularly true for transparency around pool creation and oracle selection. The project will strive to come up with and promote guidelines regarding oracle pool creation. Such best practices could then be applied by pool creators not relying on the platform.
 
 ## Team
 
 At this stage, the Delphi team consists of four members who all gathered around a post in the `#i-need-a-team` channel on the Ergo Discord. It includes the following members, in alphabetical order:
 
-- @abchris: Full stack hobbyist and oracle worshipper. Initiator of the project looking forward to see where it lands.
+- @abchris: Oracle worshipper and initiator of the project looking forward to see where it lands.
 - @Balb: Experienced with Ergo's AppKit. Brings much needed Rust expertise to the table to interface with the oracle-core stack.
 - @curbsideprophet: Data scientist by trade and blockchain analyst by night. Will be crafting new on-chain metrics tailored to this project.
 - @error: Backend and database hero ready to take on challenges. Will be building backend and DevOps tooling.
@@ -101,7 +101,7 @@ Community developer Luivatra, busy as he is, expressed interest and offered supp
 
 The theme of ErgoHack III is privacy and security. The latter is often associated with protocol improvements or infrastructure hardening. This project will contribute to security at a somewhat higher level by:
 
-- Facilitating decentralisation of oracle operators: `todo - explain how`
-- Security through transparency, by making it easier to "background check" oracle pools and oracle operators through monitoring
-- Empowering the broader community (KYA): Oracles, and oracle pools by extensions, are an integral part of DeFi. In the spirit of Ergo's KYA (know your assumptions), there is a need to educate the broader community on how pools operate and what to look for when using products relying on oracles. The platform would be a perfect place to disseminate such information.
+- Facilitating decentralisation of oracle operators through documentation and facilitated onboarding
+- Security through transparency by making it easier to "background check" oracle pools and oracle operators through monitoring
+- Empowering the broader community (KYA). Oracles, and oracle pools by extensions, are an integral part of DeFi. In the spirit of Ergo's KYA (know your assumptions), there is a need to educate the broader community on how pools operate and what to look for when using products relying on oracles. The platform would be a perfect place to disseminate such information.
 - Directing resources towards further development of the oracle-core.
