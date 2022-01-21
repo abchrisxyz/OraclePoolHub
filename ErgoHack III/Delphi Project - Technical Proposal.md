@@ -82,11 +82,13 @@ Any public facing system open for data input is eventually subject to spamming. 
 
 #### Re-centralisation
 
-For lack of a better word. The issue here is that the platform described in this document would be introducing a centralised component in an otherwise fully distributed system. The platform shouldn't be the only way to achieve some the benefits it will provide. This is particularly true for transparency around pool creation and oracle selection. The project will strive to come up with and promote guidelines regarding oracle pool creation. Such best practices could then be applied by pool creators not relying on the platform.
+For lack of a better word. The issue here is that the platform described in this document would be introducing a centralised component in an otherwise fully distributed system. The platform shouldn't be the only way to achieve some the benefits it will provide. This is particularly true for transparency around pool creation and oracle selection.
+
+The project will strive to come up with and promote guidelines regarding oracle pool creation. Such best practices could then be applied by pool creators not relying on the platform. Furthermore, functionality will be encapsulated in standalone tools and libraries to be used independently or embedded in third party services.
 
 ## Team
 
-At this stage, the Delphi team consists of four members who all gathered around a post in the `#i-need-a-team` channel on the Ergo Discord. It includes the following members, in alphabetical order:
+The Delphi team gathered around a post in the `#i-need-a-team` channel on the Ergo Discord. It includes the following members, in alphabetical order:
 
 - @abchris: Oracle worshipper and initiator of the project looking forward to see where it lands.
 - @Balb: Experienced with Ergo's AppKit. Brings much needed Rust expertise to the table to interface with the oracle-core stack.
