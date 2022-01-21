@@ -92,8 +92,7 @@ At this stage, the Delphi team consists of four members who all gathered around 
 - @Balb: Experienced with Ergo's AppKit. Brings much needed Rust expertise to the table to interface with the oracle-core stack.
 - @curbsideprophet: Data scientist by trade and blockchain analyst by night. Will be crafting new on-chain metrics tailored to this project.
 - @error: Backend and database hero ready to take on challenges. Will be building backend and DevOps tooling.
-
-We're looking to onboard a fifth member to take on frontend development.
+- @Fuzy: Multitalented graphic designer and only team member to possess taste. UI/UX.
 
 Community developer Luivatra, busy as he is, expressed interest and offered support.
 
