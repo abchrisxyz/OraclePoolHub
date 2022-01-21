@@ -86,7 +86,7 @@ For lack of a better word. The issue here is that the platform described in this
 
 ## Team
 
-At this stage, the Delphi team consists of four members who all gathered around a post in the `#i-need-a-team` channel on the Ergo Discord. It includes the following members, in alphabetical order:
+The Delphi team gathered around a post in the `#i-need-a-team` channel on the Ergo Discord. It includes the following members, in alphabetical order:
 
 - @abchris: Oracle worshipper and initiator of the project looking forward to see where it lands.
 - @Balb: Experienced with Ergo's AppKit. Brings much needed Rust expertise to the table to interface with the oracle-core stack.
