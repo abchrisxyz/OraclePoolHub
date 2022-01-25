@@ -102,7 +102,7 @@ Community developer Luivatra, busy as he is, expressed interest and offered supp
 
 The theme of ErgoHack III is privacy and security. The latter is often associated with protocol improvements or infrastructure hardening. This project will contribute to security at a somewhat higher level by:
 
-- Facilitating decentralisation of oracle operators through documentation and facilitated onboarding
-- Security through transparency by making it easier to "background check" oracle pools and oracle operators through monitoring
-- Empowering the broader community (KYA). Oracles, and oracle pools by extensions, are an integral part of DeFi. In the spirit of Ergo's KYA (know your assumptions), there is a need to educate the broader community on how pools operate and what to look for when using products relying on oracles. The platform would be a perfect place to disseminate such information.
+- Facilitating decentralisation of oracle operators through documentation and assisted onboarding.
+- Security through transparency by anabling anyone to "background check" oracle pools and oracle operators.
+- Empowering the broader community. Oracles, and oracle pools by extensions, are an integral part of DeFi. In the spirit of Ergo's KYA (know your assumptions), there is a need to educate the broader community on how pools operate and what to look for when using products relying on oracles. The platform would be a perfect place to disseminate such information.
 - Directing resources towards further development of the oracle-core.
